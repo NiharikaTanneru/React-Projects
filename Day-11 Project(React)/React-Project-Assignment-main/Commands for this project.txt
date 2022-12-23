@@ -1,0 +1,28 @@
+            first terminal
+
+First type npm install (installs dependencies and node modules)
+
+1)npm install json-server -g
+
+2)npx json-server --watch db.json --port 4000
+
+           Second Terminal
+
+1)npm start
+
+Commands for installing bootstrap and react-bootstrap and materialui type all these in terminal.
+
+npm install bootstrap
+
+npm install react-bootstrap
+
+
+-------------------------------------------------------------------------------------------------------------
+
+1.npm install @mui/material @emotion/react @emotion/styled
+
+2.npm install @mui/icons-material
+
+(url of material ui)
+
+// https://mui.com/material-ui/react-accordion/ 
